@@ -1,6 +1,6 @@
 ---
 name: pyrefly
-description: Pyrefly
+description: Pyrefly is a type checker
 homepage: https://github.com/facebook/pyrefly
 licenses:
   - MIT
