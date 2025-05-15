@@ -17,7 +17,7 @@ source:
   id: pkg:pypi/pyrefly@0.15.2
 
 bin:
-  ty: pypi:pyrefly
+  pyrefly: pypi:pyrefly
 
 neovim:
   lspconfig: pyrefly
