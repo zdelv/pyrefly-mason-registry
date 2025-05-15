@@ -10,6 +10,9 @@ categories:
   - Linter
   - LSP
 
+schemas:
+  lsp: vscode:https://raw.githubusercontent.com/facebook/pyrefly/{{version}}/lsp/package.json
+
 source:
   id: pkg:pypi/pyrefly@0.15.2
 
