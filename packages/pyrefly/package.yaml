@@ -1,0 +1,20 @@
+---
+name: pyrefly
+description: Pyrefly
+homepage: https://github.com/facebook/pyrefly
+licenses:
+  - MIT
+languages:
+  - Python
+categories:
+  - Linter
+  - LSP
+
+source:
+  id: pkg:pypi/pyrefly
+
+bin:
+  ty: pypi:pyrefly
+
+neovim:
+  lspconfig: pyrefly
