@@ -11,7 +11,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:pypi/pyrefly
+  id: pkg:pypi/pyrefly@0.15.2
 
 bin:
   ty: pypi:pyrefly
