@@ -20,5 +20,7 @@ source:
 bin:
   pyrefly: pypi:pyrefly
 
+# neovim.lspconfig *must* be used if an lspconfig file exists for pyrefly in
+# the nvim-lspconfig repo (which it does not).
 # neovim:
 #   lspconfig: pyrefly
